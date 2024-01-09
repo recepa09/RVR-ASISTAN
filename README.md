@@ -16,7 +16,7 @@ webbrowser,requests**
 `pip install customtkinter`
 `pip install playsound`
 `pip install gTTS`<br>
-`pip install speech_recognition`
+`pip install SpeechRecognition`
 `pip install time`
 `pip install datetime`
 `pip install random`
@@ -70,7 +70,7 @@ webbrowser,requests**
 `pip install customtkinter`
 `pip install playsound`
 `pip install gTTS`<br>
-`pip install speech_recognition`
+`pip install SpeechRecognition`
 `pip install time`
 `pip install datetime`
 `pip install random`
