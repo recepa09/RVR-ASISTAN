@@ -17,7 +17,6 @@ webbrowser,requests**
 `pip install playsound`
 `pip install gTTS`<br>
 `pip install SpeechRecognition==03.10.1`
-`pip install time`
 `pip install datetime`
 `pip install random`
 `pip install webbrowser`<br>
@@ -71,7 +70,6 @@ webbrowser,requests**
 `pip install playsound`
 `pip install gTTS`<br>
 `pip install SpeechRecognition==03.10.1`
-`pip install time`
 `pip install datetime`
 `pip install random`
 `pip install webbrowser`<br>
