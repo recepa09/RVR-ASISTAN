@@ -56,7 +56,7 @@ RVR Asistan, kullanıcılara çeşitli konularda yardımcı olmayı amaçlayan b
 
 ### A Voice Assistant in Python<br>
 
-**RVR Assistant is a voice assistant project developed by RECEP AVDAN, VEDAT ÖZDEMİR ve RÜMEYSA AVAN. This project is a desktop application and is valid for Python 3.12 versions.** <br><br>
+**RVR Assistant is a voice assistant project developed by RECEP AVDAN, VEDAT ÖZDEMİR and RÜMEYSA AVAN. This project is a desktop application and is valid for Python 3.12 versions.** <br><br>
 
 #### Libraries Used<br>
 
