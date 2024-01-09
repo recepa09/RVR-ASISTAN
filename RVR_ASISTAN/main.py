@@ -205,6 +205,7 @@ def response(voice):
             f=open(txtFile,"w",encoding="utf-8")
             f.writelines(theText)
             f.close()
+            print("Kayıt başaralı uygulamayı kapattıktan sonra dosya oluşturulacaktır"),speak("Kayıt başaralı uygulamayı kapattıktan sonra dosya oluşturulacaktır")
         print("Sizi Dinliyorum..."), speak("Sizi Dinliyorum...")
 
 print("Sizi Dinliyorum..."),speak("Sizi Dinliyorum...")
